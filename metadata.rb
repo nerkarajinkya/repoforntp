@@ -1,5 +1,5 @@
 name 'ntp'
-maintainer 'The Authors'
+maintainer 'ajinkya '
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures ntp'
